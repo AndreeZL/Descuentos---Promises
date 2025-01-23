@@ -1,1 +1,1 @@
-# Descuentos---Promises
+# Descuentos usando Promises
